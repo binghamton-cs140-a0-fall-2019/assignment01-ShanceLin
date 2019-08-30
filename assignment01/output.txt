@@ -1,0 +1,52 @@
+
+TESTS FOR Computer.java:
+Bell, first cpu, 8GB Memory, 5GB Solid State Drive, Price: $5.00
+Pear, second cpu, 4GB Memory, 256GB Hard Drive, Price: $300.00
+Lenuwu, third cpu, 16GB Memory, 1.0TB Solid State Drive, Price: $800.00
+Samson, fourth cpu, 32GB Memory, 3.0TB Hard Drive, Price: $1200.00
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-10-26, New York, NY
+Date and place of birth: 2000-10-26, New York, NY
+Date and place of birth: 1999-10-26, New York, NY
+Date and place of birth: 1998-03-31, Istanbul, Turkey
+Date and place of birth: 1997-02-28, Tokyo, Japan
+true
+false
+true
+false
+true
+true
+false
+true
+false
+
+TESTS FOR StreetUSAddress.java:
+513 Roosevelt Rd.
+New York, NY 10002
+768 Euclid St. 
+Apt #4
+New York, NY 10027
+
+TESTS FOR Person.java:
+Telly Heidl (090-70-2019)
+Date and place of birth: 2000-01-01, Spencer, NY, USA
+2 Main St.
+Apt #-1
+Spencer, NY 14883
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Sean Park (091-25-2362)
+Date and place of birth: 2000-01-02, Queens, NY, USA
+2321 Queens Ave.
+Apt #2
+Queens, NY 11373
+Computers: [Balint, first cpu, 16GB Memory, 10GB Solid State Drive, Price: $50.00 , Mapoy, second cpu, 8GB Memory, 512GB Hard Drive, Price: $600.00 , Garger, third cpu, 32GB Memory, 2.0TB Solid State Drive, Price: $1200.00 , Polson, fourth cpu, 64GB Memory, 6.0TB Hard Drive, Price: $3500.00 ]
+
+TESTS FOR SimpleDate.java:
+false
+true
+false
+true
+false
+true
